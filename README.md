@@ -1,1 +1,1 @@
-# Java-NotOrtalamas-Projesi-
+# Java-NotOrtalamas-Projes-
